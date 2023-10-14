@@ -1,6 +1,6 @@
 ![](https://github.com/hctnm2/OpenSourceEnthusiast/raw/main/.assets/HFest2022.png)
 
-　　通过命令回滚工作区的演示图：
+改2.
 
 <p align="justify">This repository is full of issues, which you need to resolve, first by forking this repository, making changes and then creating a Pull Request in this repository. </p>
 
