@@ -6,7 +6,7 @@
 - [四、常用命令的记录](#四常用命令的记录)
   - [1.远程连接时的补充](#1远程连接时的补充)
   - [2.VScode书写Markdown文件的插件](#2vscode书写markdown文件的插件)
-
+___  
 # 一、仓库git-github_learn的介绍  
 &emsp;&emsp;一个分享如何使用git/github的笔记的仓库。  
 ___  
@@ -21,7 +21,7 @@ ___
 &emsp;&emsp;3.其他参考链接：[**什么是版本控制？为什么要有版本控制？常用的版本控制工具有哪些？_版本控制是什么意思-CSDN博客**](https://blog.csdn.net/Roaddd/article/details/119800942)、[**github代码比对颜色介绍**](https://blog.csdn.net/qq_43683622/article/details/128170125)、[**删除仓库中的文件**](https://docs.github.com/zh/repositories/working-with-files/managing-files/deleting-files-in-a-repository)。  
 &emsp;&emsp;4.本次笔记所包含的内容如下图所示：
 ![本次笔记的目录](image.png)  
-
+___  
 # 四、常用命令的记录
 ## 1.远程连接时的补充  
 &emsp;&emsp;注意：再与连接进行连接时，先保证本地仓库不能为空且已经提交过至少一次仓库，然后按下面的命令执行。（有时需注意先pull再push）
