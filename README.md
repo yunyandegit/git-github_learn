@@ -38,6 +38,10 @@ git pull --allow-unrelated-histories  # 合并两个不相关的Git历史时使�
 git push -u origin main    # 用于将本地分支推送到远程仓库
 git pull  # 拉取远程分支最新的提交到本地
 git push  # 推送当前分支最新的提交到远程
+git push origin main  #  将本地的main分支推送到origin远程仓库
+
+git remote -v  # 查看Git配置
+
 ```
 
 ## 2.VScode书写Markdown文件的插件
