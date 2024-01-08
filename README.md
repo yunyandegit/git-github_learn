@@ -41,9 +41,15 @@ git push  # 推送当前分支最新的提交到远程
 
 ## 2.VScode书写Markdown文件的插件
 &emsp;&emsp;插件名字:Markdown All in One。看不懂英文没关系,关键是知道如何设置对应操作的快捷键以及使用快捷键就行了。
-- [一、仓库git-github\_learn的介绍](#一仓库git-github_learn的介绍)
-- [二、免责声明：](#二免责声明)
-- [三、使用说明以及参考来源：](#三使用说明以及参考来源)
-- [四、常用命令的记录](#四常用命令的记录)
-  - [1.远程连接时的补充](#1远程连接时的补充)
-  - [2.VScode书写Markdown文件的插件](#2vscode书写markdown文件的插件)
+
+# 五、补充一些关于gitee的命令
+```python
+git remote add gitee <远程仓库的URL>   #  添加远程仓库链接
+git fetch gitee         # 拉取远程分支到本地
+git merge gitee/master   # 合并远程分支到本地分支，将gitee上的master分支合并到本地分支
+git push gitee main   # 将本地的main分支推送到远程
+
+git pull --allow-unrelated-histories gitee master  # --allow-unrelated-histories选项来允许合并没有共同祖先的历史
+
+git push gitee --delete master  # 删除远程仓库（Gitee）上的master分支
+```
