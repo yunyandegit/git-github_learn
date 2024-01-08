@@ -6,6 +6,7 @@
 - [四、常用命令的记录](#四常用命令的记录)
   - [1.远程连接时的补充](#1远程连接时的补充)
   - [2.VScode书写Markdown文件的插件](#2vscode书写markdown文件的插件)
+- [五、补充一些关于gitee的命令](#五补充一些关于gitee的命令)
 ___  
 # 一、仓库git-github_learn的介绍  
 &emsp;&emsp;一个分享如何使用git/github的笔记的仓库。  
