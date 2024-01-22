@@ -52,8 +52,9 @@ git remote -v  # 查看Git配置
 git remote add gitee <远程仓库的URL>   #  添加远程仓库链接
 git fetch gitee         # 拉取远程分支到本地
 git merge gitee/master   # 合并远程分支到本地分支，将gitee上的master分支合并到本地分支
-git push gitee main   # 将本地的main分支推送到远程
+git merge --allow-unrelated-histories gitee/master  # 允许Git合并具有不相关历史的分支
 
+git push gitee main   # 将本地的main分支推送到远程
 git pull --allow-unrelated-histories gitee master  # --allow-unrelated-histories选项来允许合并没有共同祖先的历史
 
 git push gitee --delete master  # 删除远程仓库（Gitee）上的master分支
