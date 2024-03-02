@@ -6,8 +6,8 @@
 - [四、常用命令的记录](#四常用命令的记录)
   - [1.远程连接时的补充](#1远程连接时的补充)
   - [2.VScode书写Markdown文件的插件](#2vscode书写markdown文件的插件)
-    - [1.编辑插件Markdown All in One](#1编辑插件markdown-all-in-one)
-    - [2.所见即所得的插件Office Viewer(Markdown Editor)](#2所见即所得的插件office-viewermarkdown-editor)
+    - [（1）编辑插件Markdown All in One](#1编辑插件markdown-all-in-one)
+    - [（2）所见即所得的插件Office Viewer(Markdown Editor)](#2所见即所得的插件office-viewermarkdown-editor)
 - [五、补充一些关于gitee的命令](#五补充一些关于gitee的命令)
 
 ---
@@ -36,7 +36,7 @@
 
 ---
 
-# 四、常用命令的记录
+# 四、常用命令的记录以及一些插件
 
 ## 1.远程连接时的补充
 
@@ -59,13 +59,13 @@ git remote -v  # 查看Git配置
 
 ## 2.VScode书写Markdown文件的插件
 
-### 1.编辑插件Markdown All in One
+### （1）编辑插件Markdown All in One
 
 &emsp;&emsp;用于快速生成目录、设置丰富的快捷键等。看不懂英文没关系,关键是知道如何设置对应操作的快捷键以及使用快捷键就行了。
 
 ![1709345080723](image/README/1709345080723.png)
 
-### 2.所见即所得的插件Office Viewer(Markdown Editor)
+### （2）所见即所得的插件Office Viewer(Markdown Editor)
 
 　　这是一款所见即所得的插件。
 
@@ -73,7 +73,7 @@ git remote -v  # 查看Git配置
 
 　　效果如下：
 
-![1709346662570](image/README/1709346662570.png)
+![1709347148151](image/README/1709347148151.png)
 
 # 五、补充一些关于gitee的命令
 
